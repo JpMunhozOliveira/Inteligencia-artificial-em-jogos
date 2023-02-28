@@ -1,0 +1,15 @@
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\AGBasico\bin\Debug\net6.0\AGBasico.exe
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\AGBasico\bin\Debug\net6.0\AGBasico.deps.json
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\AGBasico\bin\Debug\net6.0\AGBasico.runtimeconfig.json
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\AGBasico\bin\Debug\net6.0\AGBasico.dll
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\AGBasico\bin\Debug\net6.0\AGBasico.pdb
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\AGBasico\obj\Debug\net6.0\AGBasico.csproj.AssemblyReference.cache
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\AGBasico\obj\Debug\net6.0\AGBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\AGBasico\obj\Debug\net6.0\AGBasico.AssemblyInfoInputs.cache
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\AGBasico\obj\Debug\net6.0\AGBasico.AssemblyInfo.cs
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\AGBasico\obj\Debug\net6.0\AGBasico.csproj.CoreCompileInputs.cache
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\AGBasico\obj\Debug\net6.0\AGBasico.dll
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\AGBasico\obj\Debug\net6.0\refint\AGBasico.dll
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\AGBasico\obj\Debug\net6.0\AGBasico.pdb
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\AGBasico\obj\Debug\net6.0\AGBasico.genruntimeconfig.cache
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\AGBasico\obj\Debug\net6.0\ref\AGBasico.dll

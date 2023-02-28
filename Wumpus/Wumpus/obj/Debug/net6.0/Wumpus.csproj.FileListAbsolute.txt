@@ -1,0 +1,15 @@
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\Wumpus\Wumpus\bin\Debug\net6.0\Wumpus.exe
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\Wumpus\Wumpus\bin\Debug\net6.0\Wumpus.deps.json
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\Wumpus\Wumpus\bin\Debug\net6.0\Wumpus.runtimeconfig.json
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\Wumpus\Wumpus\bin\Debug\net6.0\Wumpus.dll
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\Wumpus\Wumpus\bin\Debug\net6.0\Wumpus.pdb
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\Wumpus\Wumpus\obj\Debug\net6.0\Wumpus.csproj.AssemblyReference.cache
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\Wumpus\Wumpus\obj\Debug\net6.0\Wumpus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\Wumpus\Wumpus\obj\Debug\net6.0\Wumpus.AssemblyInfoInputs.cache
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\Wumpus\Wumpus\obj\Debug\net6.0\Wumpus.AssemblyInfo.cs
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\Wumpus\Wumpus\obj\Debug\net6.0\Wumpus.csproj.CoreCompileInputs.cache
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\Wumpus\Wumpus\obj\Debug\net6.0\Wumpus.dll
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\Wumpus\Wumpus\obj\Debug\net6.0\refint\Wumpus.dll
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\Wumpus\Wumpus\obj\Debug\net6.0\Wumpus.pdb
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\Wumpus\Wumpus\obj\Debug\net6.0\Wumpus.genruntimeconfig.cache
+C:\Users\jaoop\Desktop\Inteligencia_Artificial\Wumpus\Wumpus\obj\Debug\net6.0\ref\Wumpus.dll
